@@ -1,2 +1,2 @@
 # btc-rp-issues
-Official area for reporting issues.
+Report all in-game issues here.
