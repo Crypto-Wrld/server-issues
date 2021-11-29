@@ -1,4 +1,4 @@
 # btc-rp-issues
-![image](https://user-images.githubusercontent.com/42920111/143830017-9f8f0039-4d5b-4e4d-9951-0632d19a8a4a.png)
+![image](https://user-images.githubusercontent.com/42920111/143830892-ac440d18-0819-4d08-b22d-e9a01f7390de.png)
 
 Report all in-game issues here.
