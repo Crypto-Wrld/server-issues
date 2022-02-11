@@ -1,5 +1,5 @@
 <div align="middle">
-    <img width="auto" src="https://user-images.githubusercontent.com/91661118/153519337-d2420512-72c6-473e-8013-55a83d30ddf0.png" />
+    <img width="auto" src="https://user-images.githubusercontent.com/42920111/153553939-d69c996f-e3e6-4f06-8391-4ab924bc521c.png" />
 </div>
 <br>
 # crypto-wrld-issues
