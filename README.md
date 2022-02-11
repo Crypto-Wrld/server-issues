@@ -1,11 +1,11 @@
 <div align="middle">
-    <img width="auto" src="https://user-images.githubusercontent.com/42920111/153553939-d69c996f-e3e6-4f06-8391-4ab924bc521c.png" />
+<img width="auto" src="https://user-images.githubusercontent.com/42920111/153553939-d69c996f-e3e6-4f06-8391-4ab924bc521c.png" />
 </div>
 <br>
 <div align="left">
 ![Discord](https://img.shields.io/discord/804053511675314256?style=flat)
 ![Issues](https://img.shields.io/bitbucket/issues-raw/Crypto-Wrld/server-issues)
-    </div>
+</div>
     
     
 
