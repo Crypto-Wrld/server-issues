@@ -3,6 +3,7 @@
 </div>
 
 <h1>Crypto Wrld Issues</h1>
+
 ![Discord](https://img.shields.io/discord/804053511675314256?style=flat)
 ![Issues](https://img.shields.io/bitbucket/issues-raw/Crypto-Wrld/server-issues)
     
